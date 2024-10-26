@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="dataAnalysisEnv" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Exercises" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="dataAnalysisEnv" project-jdk-type="Python SDK" />
 </project>
